@@ -1,3 +1,2 @@
 # Project1
-Hii Iam Benjamin Shyam 
-And this is my First Project 
+And I am happy to say I am going to become a Developer 
